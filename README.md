@@ -18,6 +18,8 @@
   - [RISK RATING](https://drive.google.com/file/d/1TNOmEd3Ekgk6XhEEv5ILLHjM09BXPBXc/view?usp=drive_link)
   - [RISK RESPONSE](https://drive.google.com/file/d/1mkx4nUKaBv3KwKhzQAuSh4gxZaDPdwy3/view?usp=drive_link)
 
- <h2> Cybersecurity Masterclass Book:</h2>
+ <h2> Book Publishings:</h2>
+ 
+ - <b>Cybersecurity Masterclass</b>
   - [Amazon Link](https://www.amazon.com/Cybersecurity-Masterclass-Ultimate-Blueprint-Professionals/dp/B0DHR5FYVQ)
   - [Career Launch System](https://payhip.com/b/tN6WQ)
