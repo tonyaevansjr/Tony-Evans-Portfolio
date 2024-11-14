@@ -21,5 +21,5 @@
  <h2> Book Publishings:</h2>
  
  - <b>Cybersecurity Masterclass</b>
-  - [Amazon Link](https://www.amazon.com/Cybersecurity-Masterclass-Ultimate-Blueprint-Professionals/dp/B0DHR5FYVQ)
-  - [Career Launch System](https://payhip.com/b/tN6WQ)
+   - [Amazon Link](https://www.amazon.com/Cybersecurity-Masterclass-Ultimate-Blueprint-Professionals/dp/B0DHR5FYVQ)
+   - [Career Launch System](https://payhip.com/b/tN6WQ)
