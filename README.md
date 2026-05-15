@@ -20,5 +20,5 @@
 
  <h2> Websites:</h2>
  
- - <b>Cybersecurity Masterclass</b>
+ - <b>Cybersecurity Masterclass Book</b>
    - [AMAZON COPY](https://www.amazon.com/Cybersecurity-Masterclass-Ultimate-Blueprint-Professionals/dp/B0DHR5FYVQ)
