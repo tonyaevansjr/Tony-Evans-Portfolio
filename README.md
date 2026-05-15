@@ -1,4 +1,4 @@
-<h1>Hello, I'm Tony! <br/> 
+<h1>Hello, I'm Tony Evans! <br/> 
   <h2> Cybersecurity Professional & Author</h2>
 
 
@@ -18,8 +18,8 @@
   - [RISK RATING](https://drive.google.com/file/d/1TNOmEd3Ekgk6XhEEv5ILLHjM09BXPBXc/view?usp=drive_link)
   - [RISK RESPONSE](https://drive.google.com/file/d/1mkx4nUKaBv3KwKhzQAuSh4gxZaDPdwy3/view?usp=drive_link)
 
- <h2> Book Publishings:</h2>
+ <h2> Websites:</h2>
  
  - <b>Cybersecurity Masterclass</b>
    - [AMAZON COPY](https://www.amazon.com/Cybersecurity-Masterclass-Ultimate-Blueprint-Professionals/dp/B0DHR5FYVQ)
-   - [CAREER LAUNCH SYSTEM](https://payhip.com/b/tN6WQ)
+   - [PROFYLE PUBLISHING RESOURCES](https://profylepublish.com/home)
