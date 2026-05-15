@@ -23,5 +23,5 @@
  - <b>Cybersecurity Masterclass</b>
    - [AMAZON COPY](https://www.amazon.com/Cybersecurity-Masterclass-Ultimate-Blueprint-Professionals/dp/B0DHR5FYVQ)
   
-  <h2> PROFYLE PUBSLING:</h2>
+  <h2> PROFYLE PUBLISHING:</h2>
    - [PROFYLE PUBLISHING RESOURCES](https://profylepublish.com/home)
